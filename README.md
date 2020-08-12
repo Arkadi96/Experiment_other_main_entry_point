@@ -6,6 +6,7 @@ Compile provided files into an assembly and then using created assembly and Prog
 Change the entry point of the program to be other method (not Main), recompile and create PE file.After completed homework provide a github link with solution.
 
 Answer
+
 •	create in a text editor C# code that prints “hello world (main)” text into console with one main function and another one with main2 function that prints “hello world(desired main)” text.
 
 •	save document with helloworld.cs extension
