@@ -1,5 +1,5 @@
 # assignment-1
-This is your first assignment:Hello World!
+This is first assignment:Hello World!
 Create a simple program that prints out “Hello World!” on a console.
 Compile and run the program from command prompt by using Visual C# command-line compiler (csc.exe).
 Compile provided files into an assembly and then using created assembly and Program.cs file produce executable file.
